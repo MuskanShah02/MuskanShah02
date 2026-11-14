@@ -1,23 +1,38 @@
 ## 👋 About Me
 
-Final-year **BCA student** with a technical focus on **Artificial Intelligence, Machine Learning and Data Science**. I have a foundation in Python programming, data analytics, machine learning methodologies and AI-based application development.
+Final-year **Bachelor of Computer Applications (BCA) student** focused on **Artificial Intelligence, Machine Learning, Data Science and Data Analytics**. I have a technical foundation in Python programming, data processing, machine learning methodologies and AI-based applications.
 
-### 💻 Technical Skills
-- **Programming:** Python
-- **Data Science:** NumPy, Pandas, EDA, Data Visualization
-- **Machine Learning:** Supervised Learning, Unsupervised Learning, Classification, Clustering
-- **AI:** Deep Learning, Generative AI, Reinforcement Learning, Agentic AI
-- **Database:** SQL
-- **Frameworks:** Flask
-- **Tools:** Git, GitHub
+### 💻 Technical Skills & Tools
+
+- **Programming:** Python,Java,HTML,CSS
+- **Data Processing:** NumPy, Pandas, Data Collection, Data Cleaning, Data Manipulation
+- **Data Science:** Exploratory Data Analysis (EDA), Data Visualization, Web Scraping
+- **Mathematics:** Probability, Statistics, Linear Algebra, Calculus
+- **Machine Learning:** Supervised Learning, Unsupervised Learning, Classification, Clustering, Algorithm Implementation, Model Evaluation
+- **Artificial Intelligence:** Deep Learning, Reinforcement Learning, Generative AI, Agentic AI, Text Summarization
+- **Database:** SQL, Database Management
+- **Frameworks & Libraries:** Flask, Scikit-learn
+- **Development Tools:** Git, GitHub, Terminal / Command Line
 
 ### 🚀 Featured Project
-**Credit-Wise Loan Prediction System**  
-Machine learning application for predicting loan approval outcomes using Python, Pandas, Scikit-learn and Streamlit.
 
-### 🎯 Interests
-Artificial Intelligence | Machine Learning | Data Science | Data Analytics
+**Credit-Wise Loan Prediction System**
 
-### 🤝 Connect
-- LinkedIn: https://www.linkedin.com/in/muskan-shah-connect/
-- Email: muskaanshah224@gmail.com
+A Python-based Machine Learning application designed to analyze applicant information and predict loan approval outcomes.
+
+- Performed data preprocessing and exploratory data analysis (EDA).
+- Analyzed applicant data to identify relevant patterns and features.
+- Applied machine learning classification techniques for loan outcome prediction.
+- Evaluated model performance using classification metrics.
+- Developed an interactive application using Streamlit.
+
+**Technologies:** Python | NumPy | Pandas | Scikit-learn | SQL | Streamlit
+
+### 🎯 Areas of Interest
+
+Artificial Intelligence | Machine Learning | Data Science | Data Analytics | Generative AI
+
+### 🤝 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/muskan-shah-connect/
+- **Email:**    muskaanshah224@gmail.com 
